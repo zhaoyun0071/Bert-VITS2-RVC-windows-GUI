@@ -1,6 +1,6 @@
 # Bert-VITS2-RVC-windows-GUI
 什么环境不用配置，解压直接用的AI音频克隆、TTS、伴奏分离工具
-
+ ![image](https://github.com/zhaoyun0071/Bert-VITS2-RVC-windows-GUI/blob/main/ui.png)
 # B站视频
 # https://www.bilibili.com/video/BV1kp421o73F 
 
