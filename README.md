@@ -1,8 +1,6 @@
 # Bert-VITS2-RVC-windows-GUI
 什么环境不用配置，解压直接用的AI音频克隆、TTS、伴奏分离工具
 
-# AI音频克隆&TTS训练推理工具离线版更新日志及下载
-# 请勿滥用该技术，并遵守法律法规！
 # B站视频
 # [https://space.bilibili.com/4228235/channel/collectiondetail?sid=1667723](https://www.bilibili.com/video/BV1kp421o73F)
 
@@ -11,13 +9,16 @@
 
 夸克网盘链接：https://pan.quark.cn/s/2cb35d45721d 提取码：b9Ca
 
-
 # 三、更新记录
 软件基于开源的项目
 https://github.com/Plachtaa/VITS-fast-fine-tuning
+
 https://github.com/Stardust-minus/Bert-VITS2
+
 https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+
 https://github.com/openvpi/audio-slicer
+
 
 
 # V2.2版本：2024-2-8
