@@ -2,7 +2,7 @@
 什么环境不用配置，解压直接用的AI音频克隆、TTS、伴奏分离工具
 
 # B站视频
-# [https://space.bilibili.com/4228235/channel/collectiondetail?sid=1667723](https://www.bilibili.com/video/BV1kp421o73F)
+# https://www.bilibili.com/video/BV1kp421o73F 
 
 # V2.2下载
 # win10、win11 V2.2
